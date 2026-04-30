@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4">
+  <identifier identifierType="DOI">10.5281/zenodo.tmdb5000anish</identifier>
+  <creators>
+    <creator>
+      <creatorName>Gaware, Anish</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>TMDB 5000 Movies Dataset (Processed Version)</title>
+  </titles>
+  <publisher>SRH University Heidelberg</publisher>
+  <publicationYear>2026</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Movie Metadata Dataset</resourceType>
+  <subjects>
+    <subject>Movies</subject>
+    <subject>Data Mining</subject>
+    <subject>Machine Learning</subject>
+  </subjects>
+  <sizes>
+    <size>4803 records</size>
+    <size>20 variables</size>
+  </sizes>
+  <formats>
+    <format>text/csv</format>
+  </formats>
+  <descriptions>
+    <description descriptionType="Abstract">Dataset containing 4803 movies with 20 attributes.</description>
+  </descriptions>
+</resource>

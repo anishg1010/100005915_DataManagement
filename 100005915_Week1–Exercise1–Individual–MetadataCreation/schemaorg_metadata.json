@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "name": "TMDB 5000 Movies Dataset (Processed Version)",
+    "description": "Dataset with 4803 movies and 20 features for ML and analysis.",
+    "identifier": "https://doi.org/10.5281/zenodo.tmdb5000anish",
+    "creator": {
+        "@type": "Person",
+        "name": "Anish Gaware"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "SRH University Heidelberg"
+    },
+    "datePublished": "2026",
+    "inLanguage": "en",
+    "keywords": [
+        "movies",
+        "machine learning",
+        "data mining"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "text/csv",
+        "contentUrl": "https://example.com/download/tmdb_5000_movies.csv"
+    },
+    "variableMeasured": [
+        "budget",
+        "genres",
+        "homepage",
+        "id",
+        "keywords",
+        "original_language",
+        "original_title",
+        "overview",
+        "popularity",
+        "production_companies",
+        "production_countries",
+        "release_date",
+        "revenue",
+        "runtime",
+        "spoken_languages",
+        "status",
+        "tagline",
+        "title",
+        "vote_average",
+        "vote_count"
+    ]
+}

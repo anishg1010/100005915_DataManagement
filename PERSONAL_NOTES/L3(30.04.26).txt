@@ -1,0 +1,32 @@
+Data Profiling
+
+Applications : 
+Data Quality Assessment.
+Preparation for ETL
+Business Intelligence
+Data Integration
+---
+COLUMN ANALYSIS
+
+-Cardinality
+no of unique values in a column/field
+
+-Data Types, patterns, Domains
+
+-Value Distribution: 
+number of times a value appears in a particular column
+[eg, frequency of entries (In city column: NY(3), Los Angeles(2), Chicago(4))]
+---
+STRUCTURE ANALYSIS
+
+-Functional Dependencies
+one column decides the value in another column
+Customer ID → Name : Each unique Customer ID determines exactly one Name.
+(Customer ID, Transaction ID) → Purchase Amount: Each unique Transaction ID
+determines exactly one Purchase Amount.
+
+-Unique Column Combinations
+-Inclusion Dependencies
+
+
+DATABASE VS DATA WAREHOUSE
