@@ -1,0 +1,2317 @@
+2026-04-30,16:37:16 [INFO] (app.py:app:316): Parsing config file c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\app\..\common\default.conf
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter port set to "9004" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter server_version set to "2.13.0" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter evaluate_enabled set to "True" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter evaluate_timeout set to "30" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter upload_dir set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tmp\query_objects" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter transfer_protocol set to "http" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:284): Parameter certificate_file is not set
+2026-04-30,16:37:16 [DEBUG] (app.py:app:284): Parameter key_file is not set
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter minimum_tls_version set to "TLSv1_2" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter state_file_path set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter static_path set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\static" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:284): Parameter TABPY_PWD_FILE is not set
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter log_request_context set to "false" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter max_request_size_in_mb set to "100" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter gzip_enabled set to "True" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter arrow_enabled set to "False" from default value
+2026-04-30,16:37:16 [DEBUG] (app.py:app:277): Parameter arrowflight_port set to "13622" from default value
+2026-04-30,16:37:16 [INFO] (app.py:app:381): Setting max request size to 104857600 bytes
+2026-04-30,16:37:16 [DEBUG] (app.py:app:539): File C:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\state.ini not found, creating from template c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\state.ini.template...
+2026-04-30,16:37:16 [INFO] (app.py:app:545): Loading state from state file C:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\state.ini
+2026-04-30,16:37:16 [DEBUG] (app.py:app:397): Static pages folder set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\static"
+2026-04-30,16:54:59 [INFO] (app.py:app:316): Parsing config file c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\app\..\common\default.conf
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter port set to "9004" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter server_version set to "2.13.0" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter evaluate_enabled set to "True" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter evaluate_timeout set to "30" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter upload_dir set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tmp\query_objects" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter transfer_protocol set to "http" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:284): Parameter certificate_file is not set
+2026-04-30,16:54:59 [DEBUG] (app.py:app:284): Parameter key_file is not set
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter minimum_tls_version set to "TLSv1_2" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter state_file_path set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter static_path set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\static" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:284): Parameter TABPY_PWD_FILE is not set
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter log_request_context set to "false" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter max_request_size_in_mb set to "100" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter gzip_enabled set to "True" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter arrow_enabled set to "False" from default value
+2026-04-30,16:54:59 [DEBUG] (app.py:app:277): Parameter arrowflight_port set to "13622" from default value
+2026-04-30,16:54:59 [INFO] (app.py:app:381): Setting max request size to 104857600 bytes
+2026-04-30,16:54:59 [INFO] (app.py:app:545): Loading state from state file C:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\state.ini
+2026-04-30,16:54:59 [DEBUG] (app.py:app:397): Static pages folder set to "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\static"
+2026-04-30,16:55:04 [INFO] (app.py:app:510): Password file is not specified: Authentication is not enabled
+2026-04-30,16:55:04 [INFO] (app.py:app:429): Call context logging is disabled
+2026-04-30,16:55:04 [INFO] (app.py:app:197): Initializing TabPy...
+2026-04-30,16:55:04 [DEBUG] (proactor_events.py:proactor_events:631): Using proactor: IocpProactor
+2026-04-30,16:55:04 [INFO] (callbacks.py:callbacks:43): Initializing TabPy Server...
+2026-04-30,16:55:04 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2026-04-30,16:55:04 [DEBUG] (state.py:state:650): Returning value '[]'
+2026-04-30,16:55:04 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2026-04-30,16:55:04 [INFO] (app.py:app:201): Done initializing TabPy.
+2026-04-30,16:55:04 [DEBUG] (selector_events.py:selector_events:64): Using selector: SelectSelector
+2026-04-30,16:55:04 [INFO] (callbacks.py:callbacks:64): Initializing models...
+2026-04-30,16:55:04 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2026-04-30,16:55:04 [DEBUG] (state.py:state:650): Returning value '[]'
+2026-04-30,16:55:04 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2026-04-30,16:55:04 [INFO] (app.py:app:167): Web service listening on port 9004
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:55:32 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:55:32 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:55:32 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:55:32 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:55:32 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:55:32 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:55:32 [ERROR] (base_handler.py:base_handler:115): Traceback (most recent call last):
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\handlers\evaluation_plane_handler.py", line 178, in post
+    yield self._post_impl()
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 783, in run
+    value = future.result()
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 796, in run
+    yielded = self.gen.throw(exc)
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\handlers\evaluation_plane_handler.py", line 118, in _post_impl
+    result = yield self._call_subprocess(function_to_evaluate, arguments)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 783, in run
+    value = future.result()
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 796, in run
+    yielded = self.gen.throw(exc)
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\handlers\evaluation_plane_handler.py", line 212, in _call_subprocess
+    ret = yield gen.with_timeout(timedelta(seconds=self.eval_timeout), future)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 783, in run
+    value = future.result()
+  File "c:\python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "c:\python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "<string>", line 23, in _user_script
+ModuleNotFoundError: No module named 'matplotlib'
+
+2026-04-30,16:55:32 [ERROR] (base_handler.py:base_handler:115): Responding with status=500, message="Error processing script", info="ModuleNotFoundError : No module named 'matplotlib'"
+2026-04-30,16:55:32 [ERROR] (web.py:web:2439): 500 POST /evaluate (127.0.0.1) 14.03ms
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:55:32 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:55:32 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:55:32 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:55:32 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:55:32 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:55:32 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:55:32 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:55:32 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:55:32 [ERROR] (base_handler.py:base_handler:115): Traceback (most recent call last):
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\handlers\evaluation_plane_handler.py", line 178, in post
+    yield self._post_impl()
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 783, in run
+    value = future.result()
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 796, in run
+    yielded = self.gen.throw(exc)
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\handlers\evaluation_plane_handler.py", line 118, in _post_impl
+    result = yield self._call_subprocess(function_to_evaluate, arguments)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 783, in run
+    value = future.result()
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 796, in run
+    yielded = self.gen.throw(exc)
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tabpy\tabpy_server\handlers\evaluation_plane_handler.py", line 212, in _call_subprocess
+    ret = yield gen.with_timeout(timedelta(seconds=self.eval_timeout), future)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\tornado\gen.py", line 783, in run
+    value = future.result()
+  File "c:\python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "c:\python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "<string>", line 23, in _user_script
+ModuleNotFoundError: No module named 'matplotlib'
+
+2026-04-30,16:55:32 [ERROR] (base_handler.py:base_handler:115): Responding with status=500, message="Error processing script", info="ModuleNotFoundError : No module named 'matplotlib'"
+2026-04-30,16:55:32 [ERROR] (web.py:web:2439): 500 POST /evaluate (127.0.0.1) 6.96ms
+2026-04-30,16:57:05 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:05 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:05 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:05 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:05 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:05 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:05 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:05 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:05 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:05 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:05 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:05 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:05 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:05 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:05 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:09 [DEBUG] (__init__.py:__init__:342): matplotlib data path: c:\Users\mohit\Documents\Data-Management\Data-Management\Tabpy\.venv\Lib\site-packages\matplotlib\mpl-data
+2026-04-30,16:57:09 [DEBUG] (__init__.py:__init__:342): CONFIGDIR=C:\Users\mohit\.matplotlib
+2026-04-30,16:57:09 [DEBUG] (__init__.py:__init__:1560): interactive is False
+2026-04-30,16:57:09 [DEBUG] (__init__.py:__init__:1561): platform is win32
+2026-04-30,16:57:09 [DEBUG] (__init__.py:__init__:342): CACHEDIR=C:\Users\mohit\.matplotlib
+2026-04-30,16:57:09 [DEBUG] (font_manager.py:font_manager:1635): Using fontManager instance from C:\Users\mohit\.matplotlib\fontlist-v390.json
+2026-04-30,16:57:12 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:12 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:12 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:12 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:12 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:12 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:12 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:12 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:12 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:12 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:12 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:12 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:12 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:12 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:12 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:14 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:14 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:14 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:14 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:14 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:14 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:14 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:14 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:14 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:14 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:14 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:14 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:14 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:14 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 2996.14ms
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 4329.04ms
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 12081.25ms
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 2984.53ms
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:17 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:17 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:17 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:17 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:17 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:17 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 64.50ms
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 54.04ms
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 52.50ms
+2026-04-30,16:57:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 56.65ms
+2026-04-30,16:57:18 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:18 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:18 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:18 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:18 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:18 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:18 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:18 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:18 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:18 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:18 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:18 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:18 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:18 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:18 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ execution_result = detect_outliers(pd.DataFrame(_arg1))
+ return execution_result.to_dict(orient='list') if isinstance(execution_result, pd.DataFrame) else execution_result
+
+2026-04-30,16:57:19 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 122.98ms
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:20 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:20 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:20 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:20 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:20 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:20 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:20 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 8.88ms
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:20 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:20 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:20 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:20 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:20 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:20 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:20 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:20 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:20 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 8.21ms
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:21 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:21 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:21 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:21 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:21 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:21 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:21 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 8.89ms
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:21 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:21 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:21 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:21 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:21 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:21 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:21 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:21 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:21 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 9.28ms
+2026-04-30,16:57:22 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:22 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:22 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:22 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:22 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:22 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:22 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:22 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:22 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:22 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:22 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:22 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:22 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:22 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:22 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ execution_result = detect_outliers(pd.DataFrame(_arg1))
+ return execution_result.to_dict(orient='list') if isinstance(execution_result, pd.DataFrame) else execution_result
+
+2026-04-30,16:57:22 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 41.80ms
+2026-04-30,16:57:43 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:43 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:43 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:43 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:43 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:43 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:43 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:43 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:43 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:43 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:43 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:43 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:43 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:43 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:43 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:43 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 7.98ms
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:44 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:44 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 7.35ms
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:44 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:44 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 8.16ms
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:57:44 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:57:44 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:57:44 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:57:44 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:57:44 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 7.83ms
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:58:13 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:58:13 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:58:13 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:13 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:13 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:58:13 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:58:13 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 6.64ms
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:58:13 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:58:13 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:58:13 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:13 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:13 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:58:13 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:13 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:58:13 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:58:13 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 5.53ms
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:58:17 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:58:17 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:58:17 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:58:17 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:58:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 5.54ms
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:58:17 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:58:17 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:58:17 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:17 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:58:17 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:17 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:58:17 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:58:17 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 6.24ms
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:58:26 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:58:26 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:58:26 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:26 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:26 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:58:26 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:58:26 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 5.10ms
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2026-04-30,16:58:26 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2026-04-30,16:58:26 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2026-04-30,16:58:26 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:26 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:26 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2026-04-30,16:58:26 [DEBUG] (state.py:state:650): Returning value ''
+2026-04-30,16:58:26 [DEBUG] (base_handler.py:base_handler:115): Processing POST request...
+2026-04-30,16:58:26 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1):
+ import pandas as pd
+ def get_output_schema():
+ 	return '602959f1-6657-4d2e-a257-3ba54b3091c0'
+ def prep_string():
+ 	return ['prep_string_type']
+ def prep_bool():
+ 	return ['prep_bool_type']
+ def prep_int():
+ 	return ['prep_int_type']
+ def prep_decimal():
+     return ['prep_decimal_type']
+ def prep_date():
+ 	return ['prep_date_type']
+ def prep_datetime():
+ 	return ['prep_datetime_type']
+ #!/usr/bin/env python
+ # coding: utf-8
+ 
+ # import libraries
+ 
+ import pandas as pd
+ import matplotlib.pyplot as plt
+ 
+ from sklearn.preprocessing import StandardScaler
+ from sklearn.svm import OneClassSVM
+ 
+ # Function
+ def detect_outliers(input_df, outliers_fraction=0.05):
+     
+     # Sorting it by the Date Column
+     df = input_df.sort_values('date')
+ 
+     # Taking Sum of the Amounts on a given day (Remove if unique 'amount' on a given day)
+     df = pd.pivot_table(df, index='date', values='amount', aggfunc='sum')
+     df = df.reset_index()
+ 
+     # Scaling the Data
+     scaler = StandardScaler()
+     scaled_data = scaler.fit_transform(pd.DataFrame(df['amount']))
+     data = pd.DataFrame(scaled_data)
+ 
+     # Training the OneClassSVM
+     model = OneClassSVM(nu=outliers_fraction, kernel="rbf", gamma=0.1)
+     model.fit(data)
+ 
+     # Getting the Predicted Outliers
+     df['anomaly'] = pd.Series(model.predict(data))
+ 
+     # Setting the 'anomaly' column as boolean
+     df['anomaly'] = [True if x == -1 else False for x in df['anomaly']]
+ 
+     output_df = input_df
+     
+     return df
+ 
+ def get_output_schema():
+   return pd.DataFrame({
+     'date' : prep_date(),
+     'amount' : prep_decimal(), 
+     'anomaly' : prep_bool()
+ })
+ def get_output_schema_e6e45dac8c3f4c639323aac3baef504d(df = pd.DataFrame()):
+     import inspect
+     if len(inspect.getfullargspec(get_output_schema).args) == 0:
+         return get_output_schema()
+     else:
+         return get_output_schema(df)
+ result_schema_output = get_output_schema_e6e45dac8c3f4c639323aac3baef504d(pd.DataFrame(_arg1))
+ return result_schema_output.to_dict(orient='split') if isinstance(result_schema_output, pd.DataFrame) else result_schema_output
+
+2026-04-30,16:58:26 [INFO] (web.py:web:2439): 200 POST /evaluate (127.0.0.1) 28.40ms
+2026-04-30,18:27:55 [CRITICAL] (app.py:app:189): Exiting on signal 2...
+2026-04-30,18:27:55 [INFO] (app.py:app:195): Shutting down TabPy...
+2026-04-30,18:27:55 [INFO] (app.py:app:195): Shutting down TabPy...

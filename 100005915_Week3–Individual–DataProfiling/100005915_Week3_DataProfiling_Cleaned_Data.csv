@@ -1,0 +1,83 @@
+﻿Order_ID,Customer_ID,Customer_Name,Email,Country,City,Order_Date,Ship_Date,Product_Category,Quantity,Unit_Price,Discount,Sales,Age,Customer_Segment,Satisfaction_Score,Payment_Method,Notes
+O1070,C034,Peter Schmidt,peter.schmidt@example.com,Italy,Rome,08/04/2026,10/04/2026,Office Supplies,0,74.93,"0,15",0,48,Home Office,,Unknown,Check Address
+O1046,C022,Anna Müller,anna.muller@example.com,France,Unknown,02/06/2026,15/02/2026,Electronics,1,174.28,"0,05","165,57",39,Home Office,5,Credit Card,Check Address
+O1018,C049,Mehdi Karimi,mehdi.karimi@example.com,Netherlands,Amsterdam,28/01/2026,03/02/2026,Home,8,382.96,"0,15","2604,13",58,Corporate,3,Unknown,Missing Phone
+O1038,C035,Ali Reza,ali.reza@example.com,Netherlands,Rotterdam,16/05/2026,24/05/2026,Office Supplies,8,392.72,"0,15","2670,5",20,Consumer,,Cash,Check Address
+O1011,C005,Maha Zadeh,maha.zadeh@example.com,Germany,Karlsruhe,26/01/2026,27/01/2026,Electronics,6,171.33,"0,2","822,38",61,Consumer,,Bank Transfer,Missing Phone
+O1012,C019,John Doe,john.doe@example.com,España,Valencia,29/03/2026,01/04/2026,Electronics,1,"9999,99","0,05","9499,99",56,Home Office,4,Credit Card,Unknown
+O1080,C046,Tom Brown,tom.brown@example.com,Netherlands,Unknown,01/12/2026,18/01/2026,Furniture,1,111.5,"0,2","89,2",36,Corporate,3,Bank Transfer,Check Address
+O1085,C049,Luca Bianchi,luca.bianchi@example.com,Germany,Karlsruhe,01/03/2026,02/03/2026,Furniture,1,€280.50,"0,15","238,42",,Home Office,5,Bank Transfer,Missing Phone
+O1083,C039,Peter Schmidt,peter.schmidt@example.com,Italy,Milan,03/03/2026,11/03/2026,Electronics,6,398.2,"0,25","1791,9",46,Consumer,2,Bank Transfer,Ok
+O1023,C054,Nina Weber,nina.weber@example.com,Italy,Rome,19/03/2026,29/03/2026,Electronics,1,171.79,"0,1","154,61",16,Corporate,1,PayPal,Return Risk
+O1037,C050,Laura Rossi,laura.rossi@example.com,Italy,Milan,08/05/2026,12/05/2026,Electronics,4,326.65,"0,05","1241,27",56,Consumer,1,Bank Transfer,Missing Phone
+O1010,C004,Tom Brown,tom.brown@example.com,España,Barcelona,17/02/2026,18/02/2026,Furniture,2,263.88,0,"527,76",42,Corporate,3,PayPal,Ok
+O1075,C040,Julia Fischer,julia.fischer@example.com,Netherlands,Amsterdam,14/04/2026,20/04/2026,Office Supplies,3,"9999,99","0,15","25499,97",31,Home Office,3,PayPal,Missing Phone
+O1091,C018,Carlos Garcia,carlos.garcia@example.com,France,Lyon,20/01/2026,25/01/2026,Home,10,142.66,"0,1","1283,94",69,Consumer,3,Bank Transfer,Missing Phone
+O1049,C020,Mehdi Karimi,mehdi.karimi@example.com,Italy,Milan,27/03/2026,29/03/2026,Office Supplies,4,329.5,"0,05","1252,1",31,Corporate,2,Unknown,Ok
+O1064,C034,Nina Weber,nina.weber@example.com,Germany,Heidelberg,11/02/2026,16/02/2026,Home,5,288.7,"0,05","1371,33",56,Home Office,5,Bank Transfer,Ok
+O1024,C035,Peter Schmidt,peter.schmidt@example.com,Italy,Naples,22/04/2026,01/05/2026,Furniture,2,339.71,"0,25","509,56",40,Home Office,3,Bank Transfer,Urgent
+O1020,C055,Nina Weber,nina.weber@example.com,Netherlands,Rotterdam,08/04/2026,15/04/2026,Office Supplies,7,361.54,"0,15","2151,16",30,Consumer,4,Credit Card,Ok
+O1074,C019,Julia Fischer,julia.fischer@example.com,Netherlands,Unknown,18/03/2026,27/03/2026,Electronics,8,226.31,"0,2","1448,38",45,Home Office,3,Bank Transfer,Ok
+O1053,C014,Marie Dubois,marie.dubois@example.com,France,Paris,05/05/2026,08/05/2026,Electronics,2,334.48,"0,25","501,72",37,Home Office,5,Unknown,Check Address
+O1065,C006,Luca Bianchi,Unknown,Germany,Karlsruhe,09/03/2026,19/03/2026,Office Supplies,8,€291.72,"0,05","2217,07",67,Corporate,4,Unknown,Return Risk
+O1013,C003,Luca Bianchi,luca.bianchi@example.com,France,Paris,11/01/2026,16/01/2026,Office Supplies,9,€282.33,"0,05","2413,92",71,Unknown,2,Cash,Missing Phone
+O1066,C021,Mehdi Karimi,mehdi.karimi@example.com,Italy,Milan,30/03/2026,05/04/2026,Office Supplies,4,117.58,"0,1","423,29",76,Consumer,2,PayPal,Check Address
+O1015,C017,Emma Wilson,emma.wilson@example.com,Germany,Karlsruhe,22/04/2026,,Office Supplies,7,27.62,"0,2","154,67",75,Home Office,,Bank Transfer,Missing Phone
+O1002,C025,Sara Smith,sara.smith@example.com,Germany,Karlsruhe,30/03/2026,08/04/2026,Electronics,7,285.86,"0,1","1800,92",52,Corporate,,Bank Transfer,Ok
+O1055,C007,Anna Müller,anna.muller@example.com,Italy,Milan,01/02/2026,05/02/2026,Office Supplies,3,410.44,"0,1","1108,19",,Consumer,1,Credit Card,Unknown
+O1007,C034,Nina Weber,nina.weber@example.com,España,Madrid,27/02/2026,28/02/2026,Home,0,34.02,0,0,71,Corporate,3,PayPal,Check Address
+O1058,C041,Ali Reza,Unknown,Germany,Karlsruhe,27/03/2026,29/03/2026,Office Supplies,3,441.52,"0,05","1258,33",67,Corporate,4,Cash,Unknown
+O1076,C044,Anna Müller,anna.muller@example.com,España,Barcelona,21/03/2026,22/03/2026,Electronics,3,445.07,"0,25","1001,41",51,Home Office,,Unknown,Check Address
+O1033,C019,Ali Reza,Unknown,Italy,Milan,05/06/2026,08/05/2026,Office Supplies,9,392.36,"0,05","3354,68",52,Home Office,4,PayPal,Return Risk
+O1031,C003,Laura Rossi,laura.rossi@example.com,España,Madrid,06/03/2026,03/11/2026,Office Supplies,1,190.66,"0,1","171,59",55,Consumer,1,Credit Card,Return Risk
+O1082,C014,Nina Weber,nina.weber@example.com,France,Paris,26/04/2026,01/05/2026,Furniture,5,25.48,"0,2","101,92",62,Consumer,2,Credit Card,Unknown
+O1073,C001,Ali Reza,ali.reza@example.com,España,Barcelona,02/10/2026,,Electronics,5,409.31,"0,2","1637,24",30,Unknown,1,Cash,Ok
+O1088,C046,Anna Müller,Unknown,Netherlands,Amsterdam,20/01/2026,24/01/2026,Home,7,177.66,"0,25","932,71",62,Unknown,3,Cash,Urgent
+O1056,C051,Ali Reza,ali.reza@example.com,Germany,Heidelberg,15/03/2026,,Home,0,€74.09,"0,2",0,49,Corporate,2,Credit Card,Return Risk
+O1028,C040,Laura Rossi,laura.rossi@example.com,Germany,Karlsruhe,26/01/2026,29/01/2026,Furniture,3,188.56,"0,15","480,83",,Corporate,3,PayPal,Missing Phone
+O1078,C005,Nina Weber,nina.weber@example.com,Germany,Karlsruhe,17/01/2026,25/01/2026,Home,5,346.5,"0,25","1299,38",42,Consumer,4,Bank Transfer,Missing Phone
+O1077,C004,Marie Dubois,marie.dubois@example.com,Netherlands,Amsterdam,10/05/2026,13/05/2026,Furniture,9,324.88,"0,2","2339,14",44,Home Office,5,Credit Card,Missing Phone
+O1057,C041,John Doe,Unknown,España,Barcelona,02/06/2026,10/02/2026,Office Supplies,7,"239,38","0,2","1340,53",50,Corporate,5,Credit Card,Return Risk
+O1043,C007,Anna Müller,anna.muller@example.com,España,Madrid,24/04/2026,25/04/2026,Home,5,322.77,"0,2","1291,08",49,Home Office,4,PayPal,Missing Phone
+O1029,C010,Nina Weber,nina.weber@example.com,Netherlands,Rotterdam,06/02/2026,07/02/2026,Office Supplies,10,€215.16,"0,15","1828,86",76,Home Office,4,Bank Transfer,Return Risk
+O1089,C029,Julia Fischer,julia.fischer@example.com,España,Madrid,07/04/2026,13/04/2026,Office Supplies,10,"40,49","0,15","344,17",61,Corporate,4,Bank Transfer,Urgent
+O1036,C017,Carlos Garcia,carlos.garcia@example.com,España,Madrid,03/01/2026,10/01/2026,Furniture,6,433.22,"0,15","2209,42",70,Consumer,4,Cash,Urgent
+O1047,C027,Laura Rossi,laura.rossi@example.com,France,Paris,12/05/2026,,Office Supplies,10,28.07,"0,2","224,56",,Consumer,3,Credit Card,Urgent
+O1079,C047,John Doe,john.doe@example.com,Germany,Mannheim,01/06/2026,10/01/2026,Furniture,4,129.84,"0,25","389,52",64,Consumer,4,Credit Card,Ok
+O1017,C051,Maha Zadeh,maha.zadeh@example.com,Italy,Milan,22/01/2026,26/01/2026,Office Supplies,4,9999.99,"0,05","37999,96",46,Corporate,4,Cash,Missing Phone
+O1072,C052,Emma Wilson,Unknown,Germany,Heidelberg,15/03/2026,,Electronics,4,420.4,"0,05","1597,52",22,Consumer,2,Cash,Ok
+O1068,C005,Anna Müller,Unknown,France,Lyon,21/05/2026,25/05/2026,Home,7,254.56,"0,05","1692,82",28,Corporate,1,PayPal,Return Risk
+O1087,C045,Nina Weber,nina.weber@example.com,Germany,Heidelberg,22/04/2026,02/05/2026,Electronics,9,406.36,"0,2","2925,79",46,Unknown,,Bank Transfer,Unknown
+O1019,C049,Emma Wilson,Unknown,Germany,Mannheim,03/12/2026,20/03/2026,Electronics,5,402.72,"0,05","1912,92",30,Consumer,2,Cash,Return Risk
+O1035,C019,Tom Brown,tom.brown@example.com,Germany,Mannheim,22/04/2026,,Home,0,€137.67,"0,05",0,31,Home Office,2,PayPal,Return Risk
+O1041,C030,Laura Rossi,Unknown,Germany,Karlsruhe,06/01/2026,06/01/2026,Home,4,99.56,"0,05","378,33",37,Corporate,5,PayPal,Ok
+O1040,C024,John Doe,john.doe@example.com,Italy,Rome,19/05/2026,25/05/2026,Office Supplies,8,131.65,"0,05","1000,54",44,Consumer,3,Cash,Missing Phone
+O1052,C055,John Doe,john.doe@example.com,Italy,Rome,08/02/2026,13/02/2026,Home,5,181.25,0,"906,25",35,Consumer,3,Cash,Missing Phone
+O1008,C043,Julia Fischer,julia.fischer@example.com,France,Lyon,16/04/2026,23/04/2026,Home,2,206.29,"0,1","371,32",45,Unknown,4,Credit Card,Missing Phone
+O1026,C008,Mehdi Karimi,mehdi.karimi@example.com,Italy,Milan,17/02/2026,,Electronics,9,376.02,"0,1","3045,76",27,Home Office,2,Unknown,Missing Phone
+O1086,C012,Anna Müller,anna.muller@example.com,Germany,Karlsruhe,15/05/2026,17/05/2026,Electronics,6,172.89,"0,2","829,87",31,Consumer,,Cash,Missing Phone
+O1016,C020,Maha Zadeh,maha.zadeh@example.com,Italy,Rome,14/04/2026,18/04/2026,Office Supplies,7,280.06,"0,2","1568,34",,Corporate,3,Unknown,Urgent
+O1054,C029,Anna Müller,anna.muller@example.com,España,Valencia,25/04/2026,28/04/2026,Electronics,8,307.81,"0,15","2093,11",45,Unknown,5,Bank Transfer,Check Address
+O1084,C010,Marie Dubois,marie.dubois@example.com,Germany,Mannheim,08/04/2026,,Electronics,6,435.2,"0,15","2219,52",45,Home Office,2,Credit Card,Check Address
+O1025,C006,Marie Dubois,marie.dubois@example.com,Germany,Mannheim,06/05/2026,,Furniture,1,313.77,"0,2","251,02",39,Corporate,4,Bank Transfer,Return Risk
+O1014,C011,Julia Fischer,julia.fischer@example.com,Italy,Naples,04/08/2026,08/04/2026,Office Supplies,6,9999.99,"0,05","56999,94",41,Consumer,3,Credit Card,Check Address
+O1022,C054,Julia Fischer,julia.fischer@example.com,Germany,Karlsruhe,03/03/2026,05/03/2026,Home,12,€275.80,"0,25","2482,2",23,Home Office,3,Cash,Urgent
+O1067,C032,Carlos Garcia,carlos.garcia@example.com,Germany,Karlsruhe,04/11/2026,19/04/2026,Office Supplies,1,380.54,"0,1","342,49",,Consumer,1,Cash,Return Risk
+O1093,C009,Luca Bianchi,luca.bianchi@example.com,Italy,Rome,06/03/2026,,Electronics,10,231.92,"0,25","1739,4",42,Unknown,3,PayPal,Unknown
+O1032,C036,Maha Zadeh,maha.zadeh@example.com,Germany,Karlsruhe,24/01/2026,,Electronics,3,232.92,"0,15","593,95",46,Corporate,4,Cash,Ok
+O1071,C035,Marie Dubois,marie.dubois@example.com,France,Paris,03/09/2026,18/03/2026,Electronics,5,139.55,"0,05","662,86",60,Home Office,3,Cash,Urgent
+O1069,C021,Tom Brown,tom.brown@example.com,Germany,Heidelberg,18/03/2026,27/03/2026,Home,12,15.35,0,"184,2",42,Home Office,,PayPal,Urgent
+O1063,C024,Mehdi Karimi,mehdi.karimi@example.com,España,Madrid,03/02/2026,12/02/2026,Home,12,188.97,"0,05","2154,26",36,Consumer,,PayPal,Check Address
+O1051,C039,Carlos Garcia,carlos.garcia@example.com,España,Madrid,16/01/2026,23/01/2026,Office Supplies,11,201.49,"0,2","1773,11",55,Consumer,3,Bank Transfer,Unknown
+O1039,C048,Anna Müller,anna.muller@example.com,Italy,Rome,08/04/2026,18/04/2026,Furniture,10,"412,54",0,"4125,4",56,Corporate,3,Credit Card,Unknown
+O1045,C047,Luca Bianchi,luca.bianchi@example.com,Germany,Karlsruhe,21/03/2026,26/03/2026,Home,8,381.66,"0,1","2747,95",52,Consumer,5,Bank Transfer,Missing Phone
+O1062,C032,Mehdi Karimi,mehdi.karimi@example.com,Germany,Mannheim,19/01/2026,,Furniture,6,251.1,"0,1","1355,94",70,Unknown,,PayPal,Unknown
+O1061,C042,Anna Müller,anna.muller@example.com,France,Paris,09/01/2026,,Furniture,2,183.93,"0,05","349,47",,Home Office,2,Unknown,Urgent
+O1021,C042,Emma Wilson,emma.wilson@example.com,France,Lyon,29/04/2026,01/05/2026,Electronics,6,130.99,"0,15","668,05",32,Unknown,,Credit Card,Missing Phone
+O1006,C054,Carlos Garcia,carlos.garcia@example.com,Italy,Naples,15/01/2026,18/01/2026,Furniture,2,63.59,"0,2","101,74",26,Home Office,4,Bank Transfer,Missing Phone
+O1095,C022,John Doe,john.doe@example.com,España,Madrid,14/05/2026,,Office Supplies,8,366.1,"0,1","2635,92",57,Corporate,,PayPal,Check Address
+O1004,C009,Nina Weber,nina.weber@example.com,Germany,Mannheim,18/05/2026,,Home,4,226.13,0,"904,52",25,Corporate,4,Credit Card,Return Risk
+O1003,C014,Carlos Garcia,carlos.garcia@example.com,Italy,Rome,19/01/2026,28/01/2026,Office Supplies,7,312.17,"0,1","1966,67",69,Consumer,1,Unknown,Check Address
+O1059,C013,Luca Bianchi,luca.bianchi@example.com,France,Paris,13/01/2026,23/01/2026,Home,7,178.9,"0,15","1064,45",60,Unknown,5,PayPal,Return Risk
+O1090,C029,John Doe,john.doe@example.com,España,Barcelona,15/04/2026,16/04/2026,Furniture,10,13.45,0,"134,5",62,Corporate,2,Bank Transfer,Ok
+O1001,C016,Maha Zadeh,maha.zadeh@example.com,Germany,Mannheim,27/01/2026,,Office Supplies,2,19.73,"0,25","29,59",60,Corporate,5,Bank Transfer,Ok

@@ -1,0 +1,6 @@
+﻿Oldest_Employee_Department,Oldest_Employee_Name,Average_Salary_All_Employees,Employee_ID,Employee_Name,Department,Age,Salary,Hire_Date,City
+HR,Helga Braun,57100,E001,Anna Weber,IT,29,52000,2021-03-15Z,Heidelberg
+HR,Helga Braun,57100,E003,Sara Hoffmann,IT,35,58000,2020-01-20Z,Mannheim
+HR,Helga Braun,57100,E006,Omar Yilmaz,IT,52,72000,2014-11-03Z,Karlsruhe
+HR,Helga Braun,57100,E009,Maya Becker,IT,44,69000,2017-04-25Z,Heidelberg
+HR,Helga Braun,57100,E012,Tim Schneider,IT,25,48000,2024-01-08Z,Stuttgart
